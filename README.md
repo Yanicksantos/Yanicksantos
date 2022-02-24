@@ -6,6 +6,6 @@
 
 
   <div >
-        <img width ="400px" src="https://github-readme-stats.vercel.app/api?username=yanicksantos&show_icons=true&theme=maroongold"/>
-        <img  width ="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact"/>
+        <img width ="350px" src="https://github-readme-stats.vercel.app/api?username=yanicksantos&show_icons=true&theme=maroongold"/>
+        <img  width ="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact"/>
     </div>
