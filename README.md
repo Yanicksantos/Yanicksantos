@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá👋 Eu sou o Yanick Santos. Seja bem-vindo ao meu perfil 😉
 
 <!--
 **Yanicksantos/Yanicksantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
