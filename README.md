@@ -1,5 +1,10 @@
 ### Olá👋 Eu sou o Yanick Santos. Seja bem-vindo ao meu perfil 😉
 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- ⚡ Fato diverido: Sou apaixonado por isso! 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yanicksantos&show_icons=true&theme=maroongold) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Yanicksantos/Yanicksantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
