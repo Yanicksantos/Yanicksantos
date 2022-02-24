@@ -1,7 +1,7 @@
-### Olá👋 Eu sou o Yanick Santos. Seja bem-vindo ao meu perfil 😉
+<h1 style "border-buttom: 2px">Olá👋 Eu sou o Yanick Santos. Seja bem-vindo ao meu perfil 😉</h1>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 Estudando C# no momento.
+- 👯 Estou procurando colaborar em projetos begginers.
 - ⚡ Fato diverido: Tecnologia é minha paixão! 
 
 
