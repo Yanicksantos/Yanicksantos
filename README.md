@@ -8,8 +8,8 @@
 - ❤️ Tecnologia é minha paixão! 
 
 <br/><div >
-          <img max-width="400px" src="https://github-readme-stats.vercel.app/api?username=Yanicksantos&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-          <img max-width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact&langs_count=16&theme=dracula"/>
+          <img style="max-width:400px;" src="https://github-readme-stats.vercel.app/api?username=Yanicksantos&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
+          <img style="max-width:400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
