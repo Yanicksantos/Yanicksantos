@@ -8,12 +8,11 @@
 - ❤️ Tecnologia é minha paixão! 
 
 <br/><div >
-          <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Yanicksantos&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-          <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact&langs_count=16&theme=dracula"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact&langs_count=16&theme=solarized-light"/>
 </div>
 
 
-<h2 style ="border-buttom: 2px">Tecnologias que uso no meu dia</h2>
+<h2 style ="border-buttom: 2px">Experiência</h2>
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
