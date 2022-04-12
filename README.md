@@ -3,7 +3,7 @@
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](yanickeduardo@outlook.com)
 
 
-- 🌱 Estudando C# no momento.
+- 🌱 Estudando Javascript no momento.
 - 👯 Estou procurando colaborar em projetos begginers.
 - ❤️ Tecnologia é minha paixão! 
 
