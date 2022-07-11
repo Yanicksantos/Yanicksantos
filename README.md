@@ -5,7 +5,6 @@
 
 - 🌱 Estudando Javascript no momento.
 - 👯 Estou procurando colaborar em projetos begginers.
-- ❤️ Tecnologia é minha paixão! 
 
 <br/><div >
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact&langs_count=16&theme=solarized-light"/>
