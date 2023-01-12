@@ -6,9 +6,7 @@
 - 🌱 Estudando Javascript no momento.
 - 👯 Estou procurando colaborar em projetos begginers.
 
-<br/><div >
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanicksantos&layout=compact&langs_count=16&theme=solarized-light"/>
-</div>
+<br/>
 
 
 <h2 style ="border-buttom: 2px">Experiência</h2>
