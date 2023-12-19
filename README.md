@@ -1,9 +1,9 @@
-<h1 style "border-buttom: 3px;">Olá👋 Eu sou o Yanick Santos. Seja bem-vindo ao meu perfil 😉</h1>
+<h1 style "border-buttom: 3px;">Olá! Sou Yanick Santos e estou encantado por recebê-lo em meu perfil. Seja muito bem-vindo! 👋</h1>
 
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](yanickeduardo@outlook.com)
 
 
-- 🌱 Estudando Javascript no momento.
+- 🌱 Compartilho aqui minha jornada no mundo da tecnologia e do desenvolvimento.
 - 👯 Estou procurando colaborar em projetos begginers.
 
 <br/>
