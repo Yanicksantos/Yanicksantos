@@ -4,7 +4,7 @@
 
 
 - 🌱 Compartilho aqui minha jornada no mundo da tecnologia e do desenvolvimento.
-- 👯 Estou animado para contribuir e aprender enquanto apoio iniciativas promissoras...
+- 👯 Estou animado para contribuir e aprender enquanto apoio iniciativas promissoras.
 
 <br/>
 
