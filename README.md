@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/yanick-santos/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-- 🌱 Compartilho aqui minha jornada no mundo da tecnologia e do desenvolvimento.
+- 🌱 Compartilho aqui minha jornada no mundo da tecnologia e do desenvolvimento de aplicações.
 - 👯 Estou animado para contribuir e aprender enquanto apoio iniciativas promissoras.
 
 <br/>
