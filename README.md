@@ -4,8 +4,7 @@
 
 
 - 🌱 Compartilho aqui minha jornada no mundo da tecnologia e do desenvolvimento.
-- 👯 Estou buscando oportunidades para colaborar em projetos destinados a iniciantes. Tenho me dedicado intensamente ao estudo e estou ansioso para aplicar os conhecimentos adquiridos.
-- Estou animado para contribuir e aprender enquanto apoio iniciativas promissoras..
+- 👯 Estou animado para contribuir e aprender enquanto apoio iniciativas promissoras...
 
 <br/>
 
