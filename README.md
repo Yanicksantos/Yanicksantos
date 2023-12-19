@@ -1,6 +1,7 @@
 <h1 style "border-buttom: 3px;">Olá! Sou Yanick Santos e estou encantado por recebê-lo em meu perfil. Seja muito bem-vindo! 👋</h1>
 
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](yanickeduardo@outlook.com)
+<a href="https://www.linkedin.com/in/yanick-santos/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 - 🌱 Compartilho aqui minha jornada no mundo da tecnologia e do desenvolvimento.
