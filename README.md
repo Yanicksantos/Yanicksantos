@@ -1,10 +1,9 @@
-<h1 style "border-buttom: 3px;">Olá! Sou Yanick Santos e estou encantado por recebê-lo em meu perfil. Seja muito bem-vindo! 👋</h1>
+<h1 style "border-buttom: 3px;">Olá! Seja muito bem-vindo! 👋</h1>
 
 <a href="https://www.linkedin.com/in/yanick-santos/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 - 🌱 Compartilho aqui minha jornada no mundo da tecnologia e do desenvolvimento de aplicações.
-- 👯 Estou animado para contribuir e aprender enquanto apoio iniciativas promissoras.
 
 <br/>
 
